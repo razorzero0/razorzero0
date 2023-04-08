@@ -21,8 +21,8 @@
 <br>
 
 <div align="center">
-  <img alt="Client" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Client&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=11&line1=react,react,61DAFB;tailwindcss,tailwind,06B6D4;next.js,next.js,ffffff;swift,swift,F05138;&line2=css3,css,1572B6;jquery,jquery,0769AD;redux,redux,764ABC;figma,figma,3A76F0;"/>
-  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;mariadb,mariadb,ffffff;mysql,mysql,eba000;&line2=Supabase,supabase,3ECF8E;redis,redis,DC382D;amazondynamodb,dynamodb,4053D6;SQLite,SQLite,ffffff;"/>
+  <img alt="Client" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Client&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=11&line1=react,react,61DAFB;tailwindcss,tailwind,06B6D4;&line2=css3,css,1572B6;jquery,jquery,0769AD;"/>
+  <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;mariadb,mariadb,ffffff;mysql,mysql,eba000;&SQLite,SQLite,ffffff;"/>
 </div>
 
 <br>
