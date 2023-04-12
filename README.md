@@ -4,7 +4,7 @@
 
   
  <div align="center">
-  <img width="720" height="auto" src="https://gfycat.com/legitimatesmoggyamericanshorthair">
+  <img width="720" height="auto" src=https://gfycat.com/legitimatesmoggyamericanshorthair>
 </div>
   
 <p align="center">
