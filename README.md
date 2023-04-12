@@ -2,6 +2,11 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=u+know+Razorzero0+%3F" alt="Typing SVG" /></a>
 
+  
+ <div align="center">
+  <img width="720" height="auto" src="https://gfycat.com/legitimatesmoggyamericanshorthair">
+</div>
+  
 <p align="center">
   <b>Hanya Anak Pendiam !</b>
   </p>
