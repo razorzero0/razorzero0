@@ -1,11 +1,8 @@
-<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=200&duration=2500&pause=1000&color=E61DF7&center=true&vCenter=true&width=500&height=71&lines=hello,+my+name+is+ainun" alt="Typing SVG" /></a>
 
   
- <div align="center">
-  <img width="720" height="auto" src=ainun.gif>
-</div>
  <div align="center">
 <h2>About Me</h2>
     <p>I'm a student with a passion for web development, eager to learn and grow in the field. Although I am not an expert yet, I am enthusiastic about exploring various aspects of web development and expanding my skills. I enjoy diving into languages like PHP, HTML, CSS, Python, and JavaScript, as well as experimenting with frameworks such as Laravel, Next.js, and React.js. My journey in web development as a student is focused on gaining hands-on experience and building a solid foundation for my future career.</p>
